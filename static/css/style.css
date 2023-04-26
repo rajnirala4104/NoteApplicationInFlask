@@ -1,0 +1,15 @@
+.container{
+    /* border: 2px solid red; */
+    margin: 10px auto;
+}
+.card h5{
+    display: flex;
+    justify-content: space-between;
+}
+.emptyWorkError{
+    color: red;
+}
+
+.showList{
+    margin: 14px auto;
+}
